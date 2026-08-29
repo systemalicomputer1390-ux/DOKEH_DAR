@@ -1,0 +1,764 @@
+{
+  "products": [
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        367.75,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        333.75,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        299.75,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        265.75,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        231.75,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        367.75,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        333.75,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        299.75,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        265.75,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "SHIPAPA.png",
+      "pos": [
+        231.75,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        538.5,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        496.0,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        453.5,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        411.0,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        538.5,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        496.0,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        453.5,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "PICMAZE.png",
+      "pos": [
+        411.0,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        722.25,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        687.25,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        652.25,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        617.25,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        582.25,
+        215.0
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        722.25,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        687.25,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        652.25,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        617.25,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "TACBERAC.png",
+      "pos": [
+        582.25,
+        282.5
+      ],
+      "scale": 1.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        1355.56,
+        383.75
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        810.5,
+        150.0
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        775.5,
+        150.0
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        743.0,
+        150.0
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        705.5,
+        150.0
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        845.5,
+        217.5
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        1169.3,
+        511.25
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        1194.3,
+        506.25
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        740.5,
+        217.5
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "ALAVIPOOR.png",
+      "pos": [
+        705.5,
+        217.5
+      ],
+      "scale": 2.0
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        384.53,
+        74.12
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        356.2,
+        74.12
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        327.87,
+        74.12
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        299.53,
+        74.12
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        271.2,
+        74.12
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        242.87,
+        74.12
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        384.53,
+        141.62
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        356.2,
+        141.62
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        327.87,
+        141.62
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        299.53,
+        141.62
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        271.2,
+        141.62
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "MORTEZA.png",
+      "pos": [
+        242.87,
+        141.62
+      ],
+      "scale": 0.95
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        555.46,
+        84.85
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        533.58,
+        84.85
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        511.71,
+        84.85
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        489.83,
+        84.85
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        467.96,
+        84.85
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        446.08,
+        84.85
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        424.21,
+        84.85
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        577.33,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        555.46,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        533.58,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        511.71,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        489.83,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        467.96,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        446.08,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "BABRI.png",
+      "pos": [
+        424.21,
+        152.35
+      ],
+      "scale": 0.62
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        1118.32,
+        544.88
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        712.85,
+        77.38
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        683.68,
+        77.38
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        654.52,
+        77.38
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        625.35,
+        77.38
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        596.18,
+        77.38
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        742.02,
+        144.88
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        712.85,
+        144.88
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        683.68,
+        144.88
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        654.52,
+        144.88
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        625.35,
+        144.88
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "WATER (1).png",
+      "pos": [
+        596.18,
+        144.88
+      ],
+      "scale": 0.85
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        116.05,
+        375.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        92.05,
+        375.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        68.05,
+        375.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        44.05,
+        375.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        20.05,
+        375.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        116.05,
+        420.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        92.05,
+        420.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        68.05,
+        420.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        44.05,
+        420.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "KOACA.png",
+      "pos": [
+        20.05,
+        420.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        113.05,
+        255.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        83.05,
+        255.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        53.05,
+        255.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        23.05,
+        255.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        113.05,
+        300.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        83.05,
+        300.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        53.05,
+        300.25
+      ],
+      "scale": 0.8
+    },
+    {
+      "filename": "DIXFAX.png",
+      "pos": [
+        23.05,
+        300.25
+      ],
+      "scale": 0.8
+    }
+  ]
+}
